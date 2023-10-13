@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Seng</h1>
 <h3 align="center">An awesome frontend/creative developer</h3>
-<img align="right" alt="Profile" width="400" src="https://illustrations.popsy.co/gray/home-office.svg" />
+<img align="right" alt="Profile" width="400" src="https://illustrations.popsy.co/orange/home-office.svg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiseng18&label=Profile%20views&color=0e75b6&style=flat" alt="saiseng18" /> </p>
 
