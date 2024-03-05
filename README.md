@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiseng18&label=Profile%20views&color=0e75b6&style=flat" alt="saiseng18" /> </p>
 
-- 🔭 I’m currently working on **Next.js 13**
+- 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **Fullstack with Next.js, software development and advance animation.**
+- 🌱 I’m currently learning **Fullstack with Next.js, software development and advance web animation.**
 
-- 👨‍💻 All of my projects are available at [saiseng.netlify.app](saiseng.netlify.app)
+- 👨‍💻 All of my projects are available at [saiseng.dev](saiseng.dev)
 
 - 💬 Ask me about **frontend, react**
 
