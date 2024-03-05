@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fullstack with Next.js, software development and advance web animation.**
 
-- 👨‍💻 All of my projects are available at [saiseng.dev](saiseng.dev)
+- 👨‍💻 All of my projects are available at [saiseng.dev](https://www.saiseng.dev/)
 
 - 💬 Ask me about **frontend, react**
 
