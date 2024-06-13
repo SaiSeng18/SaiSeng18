@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sai Seng</h1>
 <h3 align="center">An awesome frontend/creative developer</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekvvs445dhyjszpdgub34vckhi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ekvvs445dhyjszpdgub34vckhi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekvvs445dhyjszpdgub34vckhi&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ekvvs445dhyjszpdgub34vckhi&redirect=true)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiseng18&label=Profile%20views&color=0e75b6&style=flat" alt="saiseng18" /> </p>
